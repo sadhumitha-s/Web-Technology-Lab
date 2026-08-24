@@ -1,6 +1,7 @@
 # Web Technologies Lab (CS3801)
 
-This repository contains the weekly exercises and projects for the Web Technologies Lab (CS3801) at SNU Chennai. 
+This repository contains the weekly exercises and projects for the Web Technologies Lab (CS3801) at Shiv Nadar University, Chennai. 
+
 More weeks will be added as the course progresses.
 
 ## Lab Directory
