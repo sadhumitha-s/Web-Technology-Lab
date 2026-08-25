@@ -23,3 +23,4 @@ Design and implement a React.js-based menu navigation system for a university we
 
 ## 4. Screenshots
 ![Screenshot 1](assets/screenshot.png)
+![Screenshot 2](assets/screenshot2.png)
