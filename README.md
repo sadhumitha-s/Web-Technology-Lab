@@ -10,3 +10,4 @@ More weeks will be added as the course progresses.
 - **[Week 2: Online Job Application Portal](2_job_application)**
 - **[Week 4: React-based Online Shopping Product Catalog](4_shop_catalog)**
 - **[Week 5: React.js-based Menu Navigation System](5_university-menu)**
+- **[Week 6: React.js-based Counter Application](6_counter)**
